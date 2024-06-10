@@ -98,3 +98,9 @@ public class Main {
 * <a href="https://drive.google.com/file/d/1Li6bLWpwA9EXK9JG0z3eDrwwsibLSJ-O/view?usp=sharing">Competitive Programming 3 The New Lower Bound of Programming Contests (Steven Halim)</a>
 * <a href="https://drive.google.com/file/d/18VxajPyxW5XtGCXHDLnMVnSecB_Au4IE/view?usp=sharing">Dawn of Programming Contest (Md. Mahbubul Hasan)</a>
 * <a href="https://drive.google.com/file/d/1t_wIdff-eqT0mUdJxbZjOPVQ19mwLAcp/view?usp=sharing">Art-of-Programming-Contest (Ahmed-Shamsul-Arefin)</a>
+## Blogs/Discussions
+To be added
+## Youtube Channels
+To be added
+## Github Repositories
+To be added
