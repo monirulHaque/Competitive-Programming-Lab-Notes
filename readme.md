@@ -3,15 +3,15 @@
 ## Python
 ```python
 import sys
-n = sys.stdin.readline()
-sys.stdout.write(n)
+n = int(sys.stdin.readline())
+sys.stdout.write(str(n))
 ```
 
 For multiple numbers input or a list input, you can use map() function, 
 ```python
 import sys
-x, y = list(map(int, sys.stdin.readline()))
-sys.stdout.write(x+y)
+x, y = list(map(int, sys.stdin.readline().split()))
+sys.stdout.write(str(x+y))
 ```
 
 ## C++
@@ -80,7 +80,7 @@ public class Main {
         int y = sc.nextInt();
 
         // fast output using PrintWriter
-        out = new PrintWriter(new BufferedOutputStream(System.out), true);
+        PrintWriter out = new PrintWriter(new BufferedOutputStream(System.out), true);
         out.println(x+y); 
 	} 
 }
