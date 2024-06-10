@@ -85,3 +85,16 @@ public class Main {
 	} 
 }
 ```
+# Resources
+## Books
+### Beginner friendly books to get started with competitive programming
+* <a href="https://drive.google.com/file/d/1glUqhcDvEtVlyO_aOAcbLhVJuRw-fItC/view?usp=sharing">Competitive Programming in Python 128 Algorithms to Develop your Coding Skills (Christoph Dürr, Jill-Jênn Vie) <b>(Python)</b></a>
+* <a href="https://drive.google.com/file/d/1zbunQkfEEMnHJ6CBCFe3811q9YiY_xqP/view?usp=sharing">Guide to Competitive Programming Learning and Improving Algorithms Through Contests (Undergraduate Topics in Computer Science) (Antti Laaksonen) <b>(C++)</b></a> (Best one)
+### Books with topic-wise practice problems from previous ICPC problems (with solutions)
+* <a href="https://drive.google.com/file/d/1XguI17mnM-cUEnLwWt2tyLC9QDRRfxbc/view?usp=sharing">Data-Structure-Practice (Yonghui-Wu, Jiande-Wang)</a>
+* <a href="https://drive.google.com/file/d/1dUllVh8Jsw8eGuJIE2awIi3DTR8EO6Gb/view?usp=sharing">Algorithm-design-practice (Yonghui-Wu, Jiande-Wang)</a>
+* <a href="https://drive.google.com/file/d/1HKVf4Ci6iqaVcQq_OR-l4jkNElPzNQJj/view?usp=sharing">Programming Challenges (Steven S. Skiena, Miguel A. Revilla)</a>
+### Other competitive programming books
+* <a href="https://drive.google.com/file/d/1Li6bLWpwA9EXK9JG0z3eDrwwsibLSJ-O/view?usp=sharing">Competitive Programming 3 The New Lower Bound of Programming Contests (Steven Halim)</a>
+* <a href="https://drive.google.com/file/d/18VxajPyxW5XtGCXHDLnMVnSecB_Au4IE/view?usp=sharing">Dawn of Programming Contest (Md. Mahbubul Hasan)</a>
+* <a href="https://drive.google.com/file/d/1t_wIdff-eqT0mUdJxbZjOPVQ19mwLAcp/view?usp=sharing">Art-of-Programming-Contest (Ahmed-Shamsul-Arefin)</a>
