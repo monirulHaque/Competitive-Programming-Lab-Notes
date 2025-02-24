@@ -57,7 +57,7 @@ public class Main {
 	public static void main(String[] args) throws IOException
 	{ 
         // fast input using buffer reader
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in)); 
+	BufferedReader br = new BufferedReader(new InputStreamReader(System.in)); 
         StringTokenizer st = new StringTokenizer(br.readLine()); 
         int x = Integer.parseInt(st.nextToken()); 
         int y = Integer.parseInt(st.nextToken()); 
@@ -75,7 +75,7 @@ public class Main {
 	public static void main(String[] args) throws IOException
 	{ 
         // fast input using buffer reader inside scanner
-		Scanner sc = new Scanner(new BufferedReader(new InputStreamReader(System.in))); 
+	Scanner sc = new Scanner(new BufferedReader(new InputStreamReader(System.in))); 
         int x = sc.nextInt(); 
         int y = sc.nextInt();
 
